@@ -19,3 +19,4 @@ A proposta original era utilizar o MidJourney para a criação da ilustração, 
 
 
 ## Link
+[Ebook: Viver Bem - Um Guia Prático para Adultos Autistas](https://github.com/andarold/ebook-com-chatGPT-e-leonardo.ai/blob/main/Ebook%20Viver%20Bem%20-%20Um%20Guia%20Pr%C3%A1tico%20para%20Adultos%20Autistas%20-%20Aline%20Niendicker%20Darold.pdf)
